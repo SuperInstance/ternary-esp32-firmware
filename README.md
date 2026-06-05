@@ -102,3 +102,11 @@ A 2D lookup: (classification × sensor_summary) → action code → motor parame
 ## License
 
 MIT
+
+## See Also
+- **ternary-hardware** — related
+- **ternary-circuit** — related
+- **ternary-control** — related
+- **ternary-cell** — related
+- **ternary-sensor** — related
+
